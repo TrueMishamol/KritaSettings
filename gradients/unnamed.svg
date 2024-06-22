@@ -1,0 +1,6 @@
+<svg xmlns:krita="http://krita.org/namespaces/svg/krita" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <linearGradient spreadMethod="pad" id="unnamed" gradientUnits="objectBoundingBox">
+  <stop offset="0.0112676" stop-opacity="1" stop-color="#ff62fe icc-color(sRGB, 1, 0.3842984736, 0.9960784316)" krita:stop-type="color-stop"/>
+  <stop offset="1" stop-opacity="1" stop-color="#ff9e44 icc-color(sRGB, 1, 0.6196078658, 0.2666666806)" krita:stop-type="color-stop"/>
+ </linearGradient>
+</svg>
