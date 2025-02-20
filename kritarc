@@ -32,7 +32,7 @@ KineticScrollingEnabled=true
 KineticScrollingGesture=2
 KineticScrollingHideScrollbar=false
 KineticScrollingSensitivity=75
-KisDlgPreferences/CurrentPage=shortcuts
+KisDlgPreferences/CurrentPage=general
 Krita/Ocio/DisplayDevice=sRGB
 Krita/Ocio/DisplayLook=None
 Krita/Ocio/DisplayView=Raw
@@ -42,8 +42,8 @@ Krita/Ocio/OcioConfigPath=
 Krita/Ocio/OcioLockColorVisualRepresentation=false
 Krita/Ocio/OcioLutPath=
 Krita/Ocio/UseOcio=false
-LastBackGroundColor=<!DOCTYPE LastBackGroundColor>\n<LastBackGroundColor>\n <RGB space="sRGB-elle-V2-srgbtrc.icc" b="0" r="0" g="0"/>\n</LastBackGroundColor>\n
-LastForeGroundColor=<!DOCTYPE LastForeGroundColor>\n<LastForeGroundColor>\n <RGB space="sRGB-elle-V2-srgbtrc.icc" b="0" r="0" g="0"/>\n</LastForeGroundColor>\n
+LastBackGroundColor=<!DOCTYPE LastBackGroundColor>\n<LastBackGroundColor>\n <RGB r="0" g="0" b="0" space="sRGB-elle-V2-srgbtrc.icc"/>\n</LastBackGroundColor>\n
+LastForeGroundColor=<!DOCTYPE LastForeGroundColor>\n<LastForeGroundColor>\n <RGB r="0" g="0" b="0" space="sRGB-elle-V2-srgbtrc.icc"/>\n</LastForeGroundColor>\n
 LastPreset=b) Basic-5 Size
 LastPreset_-1=b) Basic-5 Size
 LineSmoothingDelayDistance=50
@@ -80,7 +80,7 @@ autoPinLayers=true
 autosavefileshidden=true
 backupfilelocation=0
 backupfilesuffix=~
-baseLength=50
+baseLength=60
 calculateAnimationCacheInBackground=true
 canvasBorderColor=128,128,128
 canvasState=OPENGL_SUCCESS
@@ -154,7 +154,7 @@ logviewer_enabled=false
 maxAllowedSpeedValue=30
 maxSwapSize=4096
 maximumBrushSize=1000
-mdiBackgroundColorXML=<!DOCTYPE color>\n<color channeldepth="U8">\n <RGB r="0.301960796117783" b="0.301960796117783" space="sRGB-elle-V2-srgbtrc.icc" g="0.301960796117783"/>\n</color>\n
+mdiBackgroundColorXML=<!DOCTYPE color>\n<color channeldepth="U8">\n <RGB r="0.301960796117783" g="0.301960796117783" b="0.301960796117783" space="sRGB-elle-V2-srgbtrc.icc"/>\n</color>\n
 mdiBackgroundImage=
 mdi_rubberband=1
 mdi_viewmode=1
@@ -167,7 +167,7 @@ monitorProfileLG Electronics_LG Ultra HD_548706=sRGB-elle-V2-srgbtrc.icc
 monitorProfileShenzhen KTC Technology Group_DEXP DF24N2_=sRGB-elle-V2-srgbtrc.icc
 monitorProfile_1=sRGB-elle-V2-srgbtrc.icc
 moveToolUnit=0
-newCursorStyle=0
+newCursorStyle=3
 newOutlineStyle=2
 numFavoritePresets=10
 numberOfOnionSkins=10
@@ -328,8 +328,8 @@ yPosition=0
 [MainWindow][DockWidget ColorSelectorNg]
 DockArea=1
 Locked=false
-height=301
-width=217
+height=453
+width=294
 xPosition=0
 yPosition=16
 
@@ -424,8 +424,8 @@ yPosition=0
 [MainWindow][DockWidget PaletteDocker]
 DockArea=1
 Locked=false
-height=301
-width=217
+height=453
+width=294
 xPosition=0
 yPosition=16
 
@@ -568,8 +568,8 @@ yPosition=16
 [MainWindow][DockWidget sharedtooldocker]
 DockArea=1
 Locked=false
-height=464
-width=640
+height=167
+width=438
 xPosition=0
 yPosition=16
 
