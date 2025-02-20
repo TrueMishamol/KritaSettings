@@ -8,5 +8,5 @@ Windows
 `C:\Users\Mishamol\AppData\Roaming\krita`
 
 Linux
-`/home/mishamol/.var/app/org.kde.krita/data/krita`
-`/home/mishamol/.local/share/krita/`
+`~/.var/app/org.kde.krita/data/krita`
+`~/.local/share/krita/`
