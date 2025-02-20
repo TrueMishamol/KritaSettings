@@ -10,3 +10,15 @@ Windows
 Linux
 `~/.var/app/org.kde.krita/data/krita`
 `~/.local/share/krita/`
+
+### Simply install with command
+
+Be carufull as it might delete your Krita settings
+
+```
+mkdir -p ~/.local/share/krita/.KritaSettings_Temporary
+cd ~/.local/share/krita/
+git clone https://github.com/TrueMishamol/KritaSettings .KritaSettings_Temporary
+rsync -av --remove-source-files .KritaSettings_Temporary/ ./ 
+rm -rf .KritaSettings_Temporary
+```
